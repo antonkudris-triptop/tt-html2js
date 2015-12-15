@@ -1,0 +1,15 @@
+{
+  "name": "tt-html2js",
+  "version": "1.0.0",
+  "description": "Convert angular html templates into js files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/antonkudris-triptop/tt-html2js"
+  },
+  "author": "",
+  "license": "MIT"
+}
